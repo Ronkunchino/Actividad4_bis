@@ -4,7 +4,7 @@ package ACTIVIDAD4;
 * <h2> Clase Calculadora, se utiliza para realizar las operaciones básicas: suma, resta, multiplicación y división</h2>.
 * @version 3-(27-3-2023)
 * @author Roberto Hevia Muñiz
-* @since Versión 0 del programa
+* @since Versión 2 del programa
 */
 
 public class Calculadora_bis 
